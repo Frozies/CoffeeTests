@@ -1,7 +1,7 @@
 # Reviewing input and output from Computer Science
 
 Input and Output are not isolated to Java but are a concept used in all programming languages. In a general sense, **input** is simply
-anything which the system recieves. While output is anything the system sends out. 
+anything which the system recieves. While output is anything the system sends out. Files are a special case as they are one of the only forms of persistent storage such that we can access data without having to store everything in literals. Other options include databases (which are really just files) and Environmental variables (which are really literals stored in configuration files...so still files).
 
 In this chapter we focus on the ```Scanner object``` which is used to recieve input from the keyboard and files which are used for 
 both input and output. However, if one progresses to a GUI system such as JavaFX they will learn about 
